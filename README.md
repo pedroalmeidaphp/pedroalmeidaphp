@@ -3,7 +3,7 @@
 
 - 🔭 Hoje Trabalho com Mobile
 - 🌱 Estudando Flutter
-- 📫 Contate-me: phalmeidapadua@alu.ufc
+- 📫 Contate-me: phalmeidapadua@gmail.com
 
 <div >
   <a href="https://phalmeida.netlify.app">
